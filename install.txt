@@ -1,0 +1,12 @@
+--> npx create-react-native-app
+
+--> yarn add typescript -D
+--> yarn add @types/react-native -D
+
+--> yarn add sass
+
+--> expo install @expo/vector-icons
+
+--> expo install expo-font @expo-google-fonts/jost
+
+--> expo install expo-app-loading
