@@ -16,3 +16,8 @@
 --> yarn add @react-navigation/stack
 
 --> yarn add react-native-iphone-x-helper
+
+--> yarn add axios
+
+--> yarn add json-server -D
+-> json-server ./src/services/server.json --host 192.168.1.68 --port 3333
